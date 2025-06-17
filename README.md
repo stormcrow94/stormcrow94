@@ -118,19 +118,14 @@ My expertise includes coordinating security projects, implementing Fortinet solu
 
 - 📧 **Email**: wilhanluciano@gmail.com
 - 💼 **LinkedIn**: [/in/lucianodematos](https://www.linkedin.com/in/lucianodematos/)
-- 📱 **Phone**: +55 (11) 9 5202-3285
 - 📍 **Location**: Mauá, São Paulo, Brazil
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" alt="GitHub Streak">
-</p>
 
 <p align="center">
   <i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards." - Gene Spafford</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=red&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=stormcrow94&color=red&style=flat-square" alt="Profile Views">
 </p>
